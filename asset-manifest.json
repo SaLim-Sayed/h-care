@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/h-care/static/css/main.21bde145.css",
+    "main.js": "/h-care/static/js/main.db2aef09.js",
+    "static/media/20-a6cd4cSpecialties-1-10-06.webp": "/h-care/static/media/20-a6cd4cSpecialties-1-10-06.98920b772f0d8dbb6f75.webp",
+    "index.html": "/h-care/index.html",
+    "main.21bde145.css.map": "/h-care/static/css/main.21bde145.css.map",
+    "main.db2aef09.js.map": "/h-care/static/js/main.db2aef09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21bde145.css",
+    "static/js/main.db2aef09.js"
+  ]
+}
